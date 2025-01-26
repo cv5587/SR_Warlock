@@ -1,0 +1,55 @@
+﻿  Calculator.cpp
+  Camera.cpp
+D:\github\SR_Warlock\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  CollisionMgr.cpp
+  (소스 파일 '../Code/Calculator.cpp'을(를) 컴파일하는 중)
+  
+D:\github\SR_Warlock\Engine\Utility\Code\Camera.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Camera.h': No such file or directory
+D:\github\SR_Warlock\Engine\Utility\Code\CollisionMgr.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'CollisionMgr.h': No such file or directory
+  Component.cpp
+D:\github\SR_Warlock\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/Component.cpp'을(를) 컴파일하는 중)
+  
+  CubeTex.cpp
+D:\github\SR_Warlock\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/CubeTex.cpp'을(를) 컴파일하는 중)
+  
+  DynamicAABBTree.cpp
+D:\github\SR_Warlock\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/DynamicAABBTree.cpp'을(를) 컴파일하는 중)
+  
+  DynamicBuffer.cpp
+D:\github\SR_Warlock\Engine\Utility\Code\DynamicBuffer.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'DynamicBuffer.h': No such file or directory
+  DynamicRcTex.cpp
+D:\github\SR_Warlock\Engine\Utility\Code\DynamicRcTex.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'DynamicRcTex.h': No such file or directory
+  FBXLoader.cpp
+D:\github\SR_Warlock\Engine\Utility\Code\FBXLoader.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'FBXLoader.h': No such file or directory
+  GameObject.cpp
+D:\github\SR_Warlock\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/GameObject.cpp'을(를) 컴파일하는 중)
+  
+  Layer.cpp
+D:\github\SR_Warlock\Engine\Header\Layer.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Layer.cpp'을(를) 컴파일하는 중)
+  
+  Light.cpp
+D:\github\SR_Warlock\Engine\Header\Light.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Light.cpp'을(를) 컴파일하는 중)
+  
+  LightMgr.cpp
+D:\github\SR_Warlock\Engine\Header\LightMgr.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/LightMgr.cpp'을(를) 컴파일하는 중)
+  
+  Line.cpp
+D:\github\SR_Warlock\Engine\Utility\Code\Line.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Line.h': No such file or directory
+  LineMgr.cpp
+D:\github\SR_Warlock\Engine\Header\LineMgr.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/LineMgr.cpp'을(를) 컴파일하는 중)
+  
+  Management.cpp
+D:\github\SR_Warlock\Engine\Utility\Code\Management.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Export_Utility.h': No such file or directory
+  Mesh.cpp
+D:\github\SR_Warlock\Engine\Utility\Code\Mesh.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'Mesh.h': No such file or directory
+  ParticleBuffer.cpp
+D:\github\SR_Warlock\Engine\Utility\Code\ParticleBuffer.cpp(2,10): error C1083: 포함 파일을 열 수 없습니다. 'ParticleBuffer.h': No such file or directory
+  ProtoMgr.cpp

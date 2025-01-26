@@ -1,0 +1,33 @@
+﻿  FontMgr.cpp
+  Frame.cpp
+  FrameMgr.cpp
+D:\github\SR_Warlock\Engine\Header\FontMgr.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/FontMgr.cpp'을(를) 컴파일하는 중)
+  
+D:\github\SR_Warlock\Engine\Header\Frame.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Frame.cpp'을(를) 컴파일하는 중)
+  
+D:\github\SR_Warlock\Engine\Header\Frame.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/FrameMgr.cpp'을(를) 컴파일하는 중)
+  
+  GraphicDev.cpp
+D:\github\SR_Warlock\Engine\Header\Engine_Define.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 '../Code/GraphicDev.cpp'을(를) 컴파일하는 중)
+  
+  InputDev.cpp
+D:\github\SR_Warlock\Engine\System\Code\InputDev.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'InputDev.h': No such file or directory
+  MyFont.cpp
+D:\github\SR_Warlock\Engine\System\Code\MyFont.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'MyFont.h': No such file or directory
+  SoundMgr.cpp
+D:\github\SR_Warlock\Engine\Header\SoundMgr.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/SoundMgr.cpp'을(를) 컴파일하는 중)
+  
+  Timer.cpp
+D:\github\SR_Warlock\Engine\Header\Timer.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/Timer.cpp'을(를) 컴파일하는 중)
+  
+  TimerMgr.cpp
+D:\github\SR_Warlock\Engine\Header\TimerMgr.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'Base.h': No such file or directory
+  (소스 파일 '../Code/TimerMgr.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

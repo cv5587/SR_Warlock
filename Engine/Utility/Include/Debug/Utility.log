@@ -1,0 +1,149 @@
+﻿  Calculator.cpp
+  Camera.cpp
+  CollisionMgr.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\CollisionMgr.cpp(163,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Component.cpp
+  CubeTex.cpp
+  DynamicAABBTree.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(71,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(72,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(73,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(206,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(207,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(210,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(211,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(214,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(215,51): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(219,56): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(220,56): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(222,56): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(223,56): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(225,56): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(226,56): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(290,56): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(291,56): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(293,56): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(294,56): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(296,56): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(297,56): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(377,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(378,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(380,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(381,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(383,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(384,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(451,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(452,42): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(454,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(455,42): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(457,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicAABBTree.cpp(458,42): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DynamicBuffer.cpp
+  DynamicRcTex.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicRcTex.cpp(80,26): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicRcTex.cpp(82,26): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicRcTex.cpp(88,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\DynamicRcTex.cpp(90,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FBXLoader.cpp
+  GameObject.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\GameObject.cpp(36,50): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\GameObject.cpp(36,43): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\GameObject.cpp(36,36): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\GameObject.cpp(37,50): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\GameObject.cpp(37,43): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\GameObject.cpp(37,36): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\GameObject.cpp(39,14): warning C4244: '=': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Layer.cpp
+  Light.cpp
+  LightMgr.cpp
+  Line.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\Line.cpp(40,75): warning C4805: '==': 연산에 'bool' 형식과 'HRESULT' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  LineMgr.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\LineMgr.cpp(26,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\LineMgr.cpp(30,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\LineMgr.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\LineMgr.cpp(118,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Management.cpp
+  Mesh.cpp
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\Mesh.cpp(40,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\Mesh.cpp(63,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ParticleBuffer.cpp
+  ProtoMgr.cpp
+  RcCol.cpp
+  코드를 생성하고 있습니다...
+C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Code\LightMgr.cpp(72): warning C4715: 'Engine::CLightMgr::Enable_Light': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  RcTex.cpp
+  Renderer.cpp
+  Scene.cpp
+  TerrainTex.cpp
+  Texture.cpp
+  Transform.cpp
+  TriCol.cpp
+  UICamera.cpp
+  VIBuffer.cpp
+  코드를 생성하고 있습니다...
+     ../Bin\Utility.lib 라이브러리 및 ../Bin\Utility.exp 개체를 생성하고 있습니다.
+  Utility.vcxproj -> C:\Users\cv558\OneDrive\바탕 화면\SR\SR_Warlock\Engine\Utility\Bin\Utility.dll
+          1개 파일이 복사되었습니다.
+  지정된 경로를 찾을 수 없습니다.
+          0개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+  .\Engine\Header\Calculator.h
+  .\Engine\Header\Camera.h
+  .\Engine\Header\CollisionMgr.h
+  .\Engine\Header\Component.h
+  .\Engine\Header\CubeTex.h
+  .\Engine\Header\DynamicAABBTree.h
+  .\Engine\Header\DynamicBuffer.h
+  .\Engine\Header\DynamicRcTex.h
+  .\Engine\Header\Engine_Define.h
+  .\Engine\Header\Engine_Enum.h
+  .\Engine\Header\Engine_Function.h
+  .\Engine\Header\Engine_Macro.h
+  .\Engine\Header\Engine_Struct.h
+  .\Engine\Header\Engine_Typedef.h
+  .\Engine\Header\Export_System.h
+  .\Engine\Header\Export_Utility.h
+  .\Engine\Header\FBXLoader.h
+  .\Engine\Header\fbxsdk.h
+  .\Engine\Header\fmod.h
+  .\Engine\Header\fmod_codec.h
+  .\Engine\Header\fmod_dsp.h
+  .\Engine\Header\fmod_errors.h
+  .\Engine\Header\fmod_memoryinfo.h
+  .\Engine\Header\fmod_output.h
+  .\Engine\Header\FontMgr.h
+  .\Engine\Header\Frame.h
+  .\Engine\Header\FrameMgr.h
+  .\Engine\Header\GameObject.h
+  .\Engine\Header\GraphicDev.h
+  .\Engine\Header\InputDev.h
+  .\Engine\Header\Layer.h
+  .\Engine\Header\Light.h
+  .\Engine\Header\LightMgr.h
+  .\Engine\Header\Line.h
+  .\Engine\Header\LineMgr.h
+  .\Engine\Header\Management.h
+  .\Engine\Header\Mesh.h
+  .\Engine\Header\MeshLoader.h
+  .\Engine\Header\MyFont.h
+  .\Engine\Header\ParticleBuffer.h
+  .\Engine\Header\ProtoMgr.h
+  .\Engine\Header\RcCol.h
+  .\Engine\Header\RcTex.h
+  .\Engine\Header\Renderer.h
+  .\Engine\Header\Scene.h
+  .\Engine\Header\SoundMgr.h
+  .\Engine\Header\TerrainTex.h
+  .\Engine\Header\Texture.h
+  .\Engine\Header\Timer.h
+  .\Engine\Header\TimerMgr.h
+  .\Engine\Header\Transform.h
+  .\Engine\Header\TriCol.h
+  .\Engine\Header\UICamera.h
+  .\Engine\Header\VIBuffer.h
+         54개 파일이 복사되었습니다.
+  .\Engine\Header\Export_System.inl
+  .\Engine\Header\Export_Utility.inl
+          2개 파일이 복사되었습니다.

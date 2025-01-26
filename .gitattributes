@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+*.lib filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+track filter=lfs diff=lfs merge=lfs -text
